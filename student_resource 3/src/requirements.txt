@@ -1,0 +1,5 @@
+easyocr
+matplotlib
+opencv-python-headless
+pandas
+tqdm
