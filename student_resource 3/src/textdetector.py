@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import os
 
 # Define the path to your image
-image_path = r'/home/codemaster29/Documents/Coding_Stuff/mlChallenge/AmazonML/66e31d6ee96cd_student_resource_3/student_resource 3/images/sampletest/41ADVPQgZOL.jpg'
+image_path = r'/home/codemaster29/Documents/Coding_Stuff/mlChallenge/AmazonML/66e31d6ee96cd_student_resource_3/student_resource 3/images/test/11gHj8dhhrL.jpg'
 
 # Check if the image file exists
 if not os.path.exists(image_path):
