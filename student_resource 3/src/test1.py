@@ -66,7 +66,7 @@ def process_images(image_directory, output_csv):
     print(df.head())
 
 # Define the path to your image directory
-image_directory = '/home/codemaster29/Documents/Coding_Stuff/mlChallenge/AmazonML/66e31d6ee96cd_student_resource_3/student_resource 3/images/test'
+image_directory = '/home/codemaster29/Documents/Coding_Stuff/mlChallenge/AmazonML/66e31d6ee96cd_student_resource_3/student_resource 3/images/train'
 
 # Define the output CSV file path
 output_csv = 'ocr_results.csv'
