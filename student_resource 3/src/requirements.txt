@@ -3,3 +3,4 @@ matplotlib
 opencv-python-headless
 pandas
 tqdm
+torch
